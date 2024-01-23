@@ -1,5 +1,5 @@
 # Implementation of Novel Machine Learning Methods for Analysis and Detection of Fake Reviews in Social Media
-# Final-year-project
+
 # ABSTRACT
 
 With the continual evolution, online evaluations are increasingly seen as a critical aspect in establishing and keeping a positive reputation. Furthermore, they play an important part in the decision-making process for end consumers. A good review for a specific object typically draws more consumers and leads to a significant rise in sales. Deceptive or phoney evaluations are now purposefully generated in order to develop a virtual reputation and attract potential clients. As a result, detecting false reviews is an active and ongoing research topic. Identifying phoney reviews is dependent not only on the essential elements of the reviews, but also on the reviewers' behaviour. This research provides a machine learning method for detecting false reviews. In addition to the review features extraction approach, this research employs different features engineering techniques to extract diverse reviewer behaviours. The study examines the performance of machine learning classifiers; Decision Tree, Random Forest, SVC, CNN, Naïve Bias, Logistic Regression, XGBoost, ANN, LSTM, BERT. The results demonstrate that the algorithm is better at determining whether a review is bad or genuine.  
