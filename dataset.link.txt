@@ -1,0 +1,1 @@
+data set link - https://www.kaggle.com/code/crimsonred/fake-review-detection/data?select=finalReview.csv
