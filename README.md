@@ -51,39 +51,20 @@ Implementing the system in a scalable and efficient manner that can handle large
 
 # Comparison of Proposed System With Existing Algorithms:
 
-The evaluated algorithms for the detection of fake reviews are Random forest, KNN, SVM, BERT, CNN, XG Boost, ANN, LSTM, Decision tree,  and Logistic Regression. Classification Accuracy, Precision, Recall, and F-Measure are various parameters used to verify the algorithms. The proposed methods are evaluated using MATLAB R2018 edition. After careful evaluation of all the algorithms in MATLAB as per the parameters considered the evaluated outputs are shown in Tables 3 &4
+The evaluated algorithms for the detection of fake reviews are Random Forest, KNN, SVM, BERT, CNN, XG Boost, ANN, LSTM, Decision tree,  and Logistic Regression. Classification Accuracy, Precision, Recall, and F-Measure are various parameters used to verify the algorithms. The proposed methods are evaluated using MATLAB R2018 edition. After careful evaluation of all the algorithms in MATLAB as per the parameters considered the evaluated outputs are shown in Tables 3 &4
 
 Evaluated Results of Various Algorithms for the detection of fake reviews
-S. No.	Model	Precision Score
-(%)	Recall 
-Score
-(%)	F1 
-Score (%)
-1	ANN	68.59	74.56	65.23
-2	CNN	72.59	75.25	68.89
-3	Logistic Regression	74.26	78.78	71.25
-4	Support Vector Machine	75.28	79.12	74.89
-5	Gaussian Naive Bayes	78.28	82.15	76.25
-6	K-Nearest Neighbor	80.27	86.45	78.59
-7	Decision tree	83.54	88.78	82.45
-8	Random Forest	86.54	89.45	83.78
-9	Stochastic Gradient Descent (SGD)	88.78	90.25	85.45
-10	Proposed Multinomial NB(Proposed)	90.25	93.25	86.52
+![Evaluation](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/c27bd7cc-7335-458e-b24f-21fa1c165de9)
 
-Evaluated Results of Various Algorithms for Fake News Detection.
+
+Evaluated Results of Various Algorithms for Fake News Detection
+
 ![image](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/6a6a9bc4-f823-4940-8f23-f677e75b7fde)
 
+
 # Comparison of Various Models in terms of Training and Testing Accuracy
-Model	Training accuracy
-(%)	Testing
-Accuracy (%)
-Bidirectional LSTM + GLoVe(50D)	91.24	82.56
-LSTM + GLoVe(100D)	92.56	84.56
-CNN + LSTM + Doc2Vec +TF-IDF	93.45	85.48
-CNN+ Attention+ GLoVe(100D)	94.58	86.75
-Bi-LSTM + Attention + GLoVe(100D)	95.36	87.45
-CNN + Bi-LSTM + Attention + GLoVe(100D)	96.58	88.56
-Logistic Regression + TF-IDF(Proposed)	98.54	89.52
+
+![Training and Accuracy model](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/20ffda95-0aaf-4983-a9b9-4f68ba6a81c8)
 
 
 # Input Design:
