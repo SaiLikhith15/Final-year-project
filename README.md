@@ -51,19 +51,17 @@ Implementing the system in a scalable and efficient manner that can handle large
 
 # Comparison of Proposed System With Existing Algorithms:
 
-The evaluated algorithms for the detection of fake reviews are Random Forest, KNN, SVM, BERT, CNN, XG Boost, ANN, LSTM, Decision tree,  and Logistic Regression. Classification Accuracy, Precision, Recall, and F-Measure are various parameters used to verify the algorithms. The proposed methods are evaluated using MATLAB R2018 edition. After careful evaluation of all the algorithms in MATLAB as per the parameters considered the evaluated outputs are shown in Tables 3 &4
+The evaluated algorithms for the detection of fake reviews are Random Forest, KNN, SVM, BERT, CNN, XG Boost, ANN, LSTM, Decision tree,  and Logistic Regression. Classification Accuracy, Precision, Recall, and F-Measure are various parameters used to verify the algorithms. The proposed methods are evaluated using MATLAB R2018 edition. After careful evaluation of all the algorithms in MATLAB as per the parameters considered.
 
-Evaluated Results of Various Algorithms for the detection of fake reviews
+# Evaluated Results of Various Algorithms for the detection of fake reviews
 ![Evaluation](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/c27bd7cc-7335-458e-b24f-21fa1c165de9)
 
 
-Evaluated Results of Various Algorithms for Fake News Detection
-
+# Evaluated Results of Various Algorithms for Fake News Detection
 ![image](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/6a6a9bc4-f823-4940-8f23-f677e75b7fde)
 
 
 # Comparison of Various Models in terms of Training and Testing Accuracy
-
 ![Training and Accuracy model](https://github.com/SaiLikhith15/Final-year-project/assets/121685647/20ffda95-0aaf-4983-a9b9-4f68ba6a81c8)
 
 
